@@ -1,0 +1,15 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+th.cf-head {
+    text-align: left;
+    font-size: 16px;
+}
+td.cf-left-col {
+    width: 17%;
+}
+table.paypal_set_table {
+    line-height: 28px;
+}
